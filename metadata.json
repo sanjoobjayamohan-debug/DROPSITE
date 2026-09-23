@@ -1,0 +1,6 @@
+{
+  "name": "AURA Dropship Commerce",
+  "description": "Ultra-fast minimalist e-commerce storefront and dropshipping operations backend with automated tracking, live analytics, and review management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
